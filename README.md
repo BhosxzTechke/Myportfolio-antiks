@@ -1,7 +1,10 @@
 <img src="https://drive.google.com/uc?export=view&id=1UEnB3R7vNyhG7kmYnxrLsiKBoZ27d6NR" alt="Google Drive Image" />
 
 
-## Setup
+## Disclaimer & Credits
 
-1. Add RESEND_API_KEY environment variable in .env.local
-2. In the send-email.ts action file, change the "to" email to your own email
+This portfolio is heavily inspired by the design and structure of [ByteGrad's portfolio](https://github.com/ByteGrad/portfolio-website).  
+I modified the content to reflect my own projects, experience, and personal branding.
+
+The original project is owned by ByteGrad, and all credit goes to them for the design and concept.
+This version is used for educational and personal showcase purposes only.
