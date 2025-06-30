@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?export=view&id=1UEnB3R7vNyhG7kmYnxrLsiKBoZ27d6NR" alt="My Image" />
+<img src="https://drive.google.com/uc?export=view&id=1UEnB3R7vNyhG7kmYnxrLsiKBoZ27d6NR" alt="Google Drive Image" />
 
 
 ## Setup
