@@ -1,6 +1,6 @@
 import React from "react";
 import { educationdata } from "@/lib/data";
-import Education from "./education";
+import Education from "./Education";
 
 export default function EducationSection() {
   return (
