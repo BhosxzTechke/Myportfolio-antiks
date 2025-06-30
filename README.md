@@ -1,4 +1,4 @@
-[![Watch tutorial here]([https://img.youtube.com/vi/sUKptmUVIBM/0.jpg)](https://youtu.be/sUKptmUVIBM](https://drive.google.com/file/d/1UEnB3R7vNyhG7kmYnxrLsiKBoZ27d6NR/view?usp=drive_link))
+<img src="https://drive.google.com/uc?export=view&id=1UEnB3R7vNyhG7kmYnxrLsiKBoZ27d6NR" alt="My Image" />
 
 
 ## Setup
