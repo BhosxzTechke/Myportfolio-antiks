@@ -36,7 +36,10 @@ export default function Contact() {
         <a className="underline" href="mailto:danmichaelantiquina14@outlook.com">
           danmichaelantiquina14@outlook.com
         </a>{" "}
-        or through this form.
+        or through this form. <br />
+        <span className="text-xs italic text-gray-500 dark:text-white/60">
+          (Note: This form uses Resend's free testing setup and sends only to my email via onboarding@resend.dev)
+        </span>
       </p>
 
       <form
