@@ -1,5 +1,4 @@
-<img src="https://drive.google.com/file/d/1rc6SYoX1lVn5EzXnJhVDE2Rcs7evRE9q/view?usp=sharing" alt="Google Drive Image" />
-
+<img src="https://drive.google.com/uc?export=view&id=1rc6SYoX1lVn5EzXnJhVDE2Rcs7evRE9q" alt="Image from Drive" />
 
 
 
