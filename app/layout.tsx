@@ -9,9 +9,13 @@ import { Toaster } from "react-hot-toast";
 
 const inter = Inter({ subsets: ["latin"] });
 
+// app/layout.tsx or layout.js
 export const metadata = {
   title: "Michael | Personal Portfolio",
   description: "Michael is a UI/UX",
+  icons: {
+    icon: "/mon.png", // or .png, etc.
+  },
 };
 
 export default function RootLayout({

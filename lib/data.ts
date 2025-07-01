@@ -115,4 +115,6 @@ export const skillsData = [
   "Python",
   "Adove Photoshop",
   "Microsoft Office",
+  "FreshDesk(CRM)",
+  "Microsoft Excel",
 ] as const;
