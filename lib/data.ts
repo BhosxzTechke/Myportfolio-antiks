@@ -3,8 +3,8 @@ import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import projectinguna from "@/public/1st proj.png";
-import projectingdalawa from "@/public/photoshopWork.png";
-import wordanalyticsImg from "@/public/wordanalytics.png";
+import projectingdalawa from "@/public/photoshopee.png";
+import projectingtatlo from "@/public/photoshopWork.png";
 
 export const links = [
   {
@@ -92,6 +92,20 @@ export const projectsData = [
     tags: ["Photoshop"],
     imageUrl: projectingdalawa,
   },
+
+
+    {
+    title: "Laravel Company Website",
+    description:
+      "Created a dynamic company website with an admin panel for managing blog posts, homepage slides, and content categories using Laravel and Blade templating",
+    tags: ["Laravel", "PHP", "Bootstrap", "Breeze Authentication"],
+    imageUrl: projectingtatlo,
+  },
+
+
+
+
+
   // {
   //   title: "Word Analytics",
   //   description:
@@ -112,9 +126,12 @@ export const skillsData = [
   "Figma",
   "Notion",
   "MSSQL - MYSQL",
-  "Python",
+  "Basic Python",
   "Adove Photoshop",
   "Microsoft Office",
   "FreshDesk(CRM)",
   "Microsoft Excel",
+  "Laravel",
+  "VB.Net",
+
 ] as const;
